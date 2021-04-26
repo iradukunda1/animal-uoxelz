@@ -1,0 +1,8 @@
+{
+  "name": "animal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "5d8ad76b"
+}
